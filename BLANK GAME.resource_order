@@ -17,9 +17,13 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"menu","order":1,"path":"rooms/menu/menu.yy",},
     {"name":"Ball","order":2,"path":"objects/Ball/Ball.yy",},
     {"name":"Sprite4","order":16,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"Paddle2","order":1,"path":"objects/Paddle2/Paddle2.yy",},
+    {"name":"PlayButton","order":3,"path":"objects/PlayButton/PlayButton.yy",},
+    {"name":"DrawScore","order":4,"path":"objects/DrawScore/DrawScore.yy",},
+    {"name":"start_text","order":2,"path":"sprites/start_text/start_text.yy",},
     {"name":"ball","order":1,"path":"sprites/ball/ball.yy",},
   ],
 }

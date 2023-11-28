@@ -8,7 +8,7 @@ if x > 0 && x < 620 {
 	y = 240
 	ball_vel = -1
 	vel_angle = 0
-	score2 += 1
+	score1 += 1
 } else if x >= 620 {
 	x = 310
 	y = 240
